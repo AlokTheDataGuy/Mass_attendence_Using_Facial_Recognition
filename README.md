@@ -2,6 +2,14 @@
 
 A web-based mass attendance system using facial recognition technology powered by Flask, OpenCV, dlib, and machine learning.
 
+🚧 Work in Progress 🚧
+This project is still under development. Stay tuned for updates!
+
+🔹 Status: In Progress
+🔹 Next Steps: Coming Soon
+
+📌 Feel free to check back later! 🚀
+
 ## Features
 
 - 🎯 **Real-time Face Recognition**: Uses Haar Cascade, dlib, and K-Nearest Neighbors (KNN) algorithm  
