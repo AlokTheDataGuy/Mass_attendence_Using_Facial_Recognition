@@ -6,7 +6,7 @@ A web-based mass attendance system using facial recognition technology powered b
 This project is still under development. Stay tuned for updates!
 
 🔹 Status: In Progress
-🔹 Next Steps: Coming Soon
+🔹 Next Steps: Applying latest techniques to improve accuracy.
 
 📌 Feel free to check back later! 🚀
 
